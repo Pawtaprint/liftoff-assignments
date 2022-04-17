@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+I have included WireFrames in a .jpeg for each of our pages on the app. The amount of pages are still subject to change.
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/wJxlWS5Z/micro-greens-app
+
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+Project Micro-Green App Api https://github.com/April-2022-LC-LiftOff/micro-green-app-api
+Project Micro-Green App UI https://github.com/April-2022-LC-LiftOff/micro-green-app-ui
