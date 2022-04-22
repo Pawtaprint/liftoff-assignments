@@ -7,5 +7,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-https://github.com/April-2022-LC-LiftOff/micro-green-app-ui
-https://github.com/April-2022-LC-LiftOff/micro-green-app-api
+1.https://github.com/April-2022-LC-LiftOff/micro-green-app-ui
+2.https://github.com/April-2022-LC-LiftOff/micro-green-app-api
