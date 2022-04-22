@@ -13,19 +13,19 @@ This web application is made for microgreen farmers. The web app should allow mi
 
 ### Features
 
-1)Inventory CRUD 
+1. Inventory CRUD 
     a)Farmer can create, update and delete inventory items
-2)Order CRUD
+2. Order CRUD
     a)Farmer can create, update and delete orders they have received 
-3)Plant Schedule added to Calendar
+3. Plant Schedule added to Calendar
     a)When orders are received the calendar updates with a planting schedule and delivery dates and daily schedule 
 
 *Potential 
 
-4)User Login–role based access
+4. User Login–role based access
     a)Admin (farmer) gets access to all features through their login
     b)Employee gets access to calendar feature through their login
-5)	Customer CRUD
+5. 	Customer CRUD
     a)Farmer can create, update and delete customers
 
 
