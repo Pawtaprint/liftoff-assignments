@@ -16,7 +16,7 @@ I have included WireFrames in a .jpeg for each of our pages on the app. The amou
 https://trello.com/b/wJxlWS5Z/micro-greens-app
 
 
-### Project Repo Link
+### Project Repo Links
 
 Project Micro-Green App Api https://github.com/April-2022-LC-LiftOff/micro-green-app-api
 Project Micro-Green App UI https://github.com/April-2022-LC-LiftOff/micro-green-app-ui
