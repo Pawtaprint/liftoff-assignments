@@ -14,4 +14,4 @@ https://github.com/Pawtaprint
 Provide a link to your LinkedIn account here.
 
 ### Resume
-[Brian Williams LaunchCode Resume.pdf](https://github.com/Pawtaprint/liftoff-assignments/files/8703300/Brian.Williams.LaunchCode.Resume.pdf)
+
